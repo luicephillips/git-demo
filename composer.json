@@ -1,0 +1,8 @@
+{
+    "name": "ivinteractive/fk",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^2.4",
+        "sentry/sentry-laravel": "^0.6.1"
+    }
+}
